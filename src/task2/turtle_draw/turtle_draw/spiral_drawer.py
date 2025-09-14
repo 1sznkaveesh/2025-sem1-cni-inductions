@@ -38,4 +38,5 @@ def main(args=None):    # accepts
         rclpy.shutdown()
 
 
-if __name__ == '__main__':    # entry point
+if __name__ == '__main__':  # entry point
+    main()
